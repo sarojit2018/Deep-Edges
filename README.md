@@ -1,1 +1,1 @@
-# Detect_edges
+# Deep Edges
